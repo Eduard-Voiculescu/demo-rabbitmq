@@ -13,3 +13,5 @@ Once we have installed RabbitMQ, we need to run it. There are numerous ways for 
 1. `brew services start rabbitmq` (will run in the background)
 2. `/opt/homebrew/opt/rabbitmq/sbin/rabbitmq-server` (will run in the command prompt, we can see the logs)
 3. Open new command line and type `rabbitmq-server` (will do the same as step 2)
+
+Tutorial can be found [here](https://spring.io/guides/gs/messaging-rabbitmq/).
